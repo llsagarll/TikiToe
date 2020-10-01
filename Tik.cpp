@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 stack<int> s;
-void display(int Board[][3]) //To display Board
+void display(int Board[][3]) //To display Board configuration
 {
   cout<<"\n\n";
   for (int i=0;i<3;i++)
